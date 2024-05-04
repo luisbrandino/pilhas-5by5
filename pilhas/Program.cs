@@ -66,6 +66,7 @@ void quantityOfOdd()
 
     waitForAnyKey();
 }
+
 void transferSelectedStackToNewStack()
 {
     int index = selectStackMenu();
